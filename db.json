@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "utku",
+      "color": "Orange",
+      "id": "1"
+    },
+    {
+      "username": "Namrata",
+      "color": "Green",
+      "id": "5"
+    }
+  ]
+}
